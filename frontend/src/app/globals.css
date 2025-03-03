@@ -1,0 +1,25 @@
+.bg {
+  background-color: #424242;
+  color: white;
+}
+
+.bg:hover {
+  background-color: #9c7d0b;
+  color: white;
+}
+
+.bg-gold {
+  background-color: #9c7d0b;
+}
+
+.bg-gray {
+  background-color: #424242;
+}
+
+.bg-lightgray {
+  background-color: #f4f4f4;
+}
+
+.text-gray {
+  color: #424242;
+}
